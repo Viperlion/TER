@@ -1,0 +1,2 @@
+# TER
+Machine de Turing
